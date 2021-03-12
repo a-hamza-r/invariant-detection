@@ -1,0 +1,6 @@
+assert(E0 <= 999.0)
+assert(S <= 999.0)
+assert(E1 <= 984.0)
+assert(E1 >= -972.0)
+assert(S >= 0.0)
+assert(E0 >= 0.0)

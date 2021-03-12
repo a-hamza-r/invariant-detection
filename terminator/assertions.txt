@@ -1,0 +1,5 @@
+assert(x <= 100.0)
+assert(z >= 10.0)
+assert(z >= 0.0)
+assert(x >= -11.0)
+assert(z <= 193.0)

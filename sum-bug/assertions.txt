@@ -1,0 +1,8 @@
+assert(a <= 2.0)
+assert(j >= -974.0)
+assert(a >= 2.0)
+assert(a == 2.0)
+assert(sn <= 10.0)
+assert(j <= 10.0)
+assert(a >= 0.0)
+assert(sn >= 0.0)
